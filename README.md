@@ -22,7 +22,6 @@ PrimeFlix é um site para explorar filmes populares. O projeto utiliza **HTML5**
 2. **Navegue até o diretório do projeto**:
 
    ```bash
-   Copiar
    cd PrimeFlix
 
 3. **Abra o arquivo index.html em seu navegador.**
