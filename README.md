@@ -15,6 +15,16 @@ PrimeFlix é um site para explorar filmes populares. O projeto utiliza **HTML5**
 
 ## Como Executar
 
-1. Clone este repositório:
+1. **Clone este repositório**:
    ```bash
    git clone https://github.com/yurijarcem/PrimeFlix.git
+   
+2. **Navegue até o diretório do projeto**:
+
+   ```bash
+   Copiar
+   cd PrimeFlix
+
+3. **Abra o arquivo index.html em seu navegador.**
+
+- *Se você deseja modificar ou adicionar mais filmes, pode editar os arquivos de HTML e JavaScript.*
